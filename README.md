@@ -57,8 +57,6 @@ Below is a list of the features used in the dataset along with their description
 - ROC-AUC: **95**
 
 
-4. Explore the results and visualizations in the notebook.
-
 ## Dependencies
 - Python 3.8+
 - pandas
